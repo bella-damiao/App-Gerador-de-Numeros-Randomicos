@@ -15,7 +15,7 @@ This app generates random numbers and displays them on the user interface.
 ***
 
 
-# App Gerador de Números Randômicos
+# App - Gerador de Números Randômicos
 
 Este aplicativo gera números aleatórios e os exibe na interface do usuário. 
 
